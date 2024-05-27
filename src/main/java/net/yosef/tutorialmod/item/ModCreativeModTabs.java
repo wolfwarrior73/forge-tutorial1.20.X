@@ -32,6 +32,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.END_STONE_SAPPHIRE_ORE.get());
 
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+                        pOutput.accept(ModItems.STAWBERRY.get());
+                        pOutput.accept(ModItems.PINECONE.get());
 
                     })
                     .build());
